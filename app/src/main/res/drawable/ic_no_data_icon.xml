@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+  <path
+      android:pathData="m61,11v48a2.006,2.006 0,0 1,-2 2h-54a2.006,2.006 0,0 1,-2 -2v-48z"
+      android:fillColor="#d1e7f8"/>
+  <path
+      android:pathData="m3,33v26a2,2 0,0 0,2 2h27c-16.029,0 -29,-12.523 -29,-28z"
+      android:fillColor="#9bc9ff"/>
+  <path
+      android:pathData="m59,3h-54a2,2 0,0 0,-2 2v6h58v-6a2,2 0,0 0,-2 -2z"
+      android:fillColor="#3d9ae2"/>
+  <path
+      android:pathData="M32,36m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0"
+      android:fillColor="#ffcd00"/>
+  <path
+      android:pathData="m24.93,47.31 l7.07,-7.07 7.07,7.07 4.24,-4.24 -7.07,-7.07 7.07,-7.07 -4.24,-4.24 -7.07,7.07 -7.07,-7.07 -4.24,4.24 7.07,7.07 -7.07,7.07z"
+      android:fillColor="#ff3051"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m59,2h-54a3,3 0,0 0,-3 3v54a3,3 0,0 0,3 3h54a3,3 0,0 0,3 -3v-54a3,3 0,0 0,-3 -3zM5,4h54a1,1 0,0 1,1 1v5h-56v-5a1,1 0,0 1,1 -1zM59,60h-54a1,1 0,0 1,-1 -1v-47h56v47a1,1 0,0 1,-1 1z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m7,8h1a1,1 0,0 0,0 -2h-1a1,1 0,0 0,0 2z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m12,8h1a1,1 0,0 0,0 -2h-1a1,1 0,0 0,0 2z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m17,8h1a1,1 0,0 0,0 -2h-1a1,1 0,0 0,0 2z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m32,18a18,18 0,1 0,18 18,18.021 18.021,0 0,0 -18,-18zM32,52a16,16 0,1 1,16 -16,16.019 16.019,0 0,1 -16,16z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m39.07,48.31a1,1 0,0 1,-0.707 -0.293l-6.363,-6.363 -6.363,6.363a1,1 0,0 1,-1.414 0l-4.24,-4.24a1,1 0,0 1,0 -1.414l6.363,-6.363 -6.363,-6.363a1,1 0,0 1,0 -1.414l4.24,-4.24a1,1 0,0 1,1.414 0l6.363,6.363 6.363,-6.363a1,1 0,0 1,1.414 0l4.24,4.24a1,1 0,0 1,0 1.414l-6.363,6.363 6.363,6.363a1,1 0,0 1,0 1.414l-4.24,4.24a1,1 0,0 1,-0.707 0.293zM32,39.24a1,1 0,0 1,0.707 0.293l6.363,6.367 2.83,-2.83 -6.363,-6.363a1,1 0,0 1,0 -1.414l6.363,-6.363 -2.83,-2.83 -6.363,6.363a1,1 0,0 1,-1.414 0l-6.363,-6.363 -2.83,2.83 6.363,6.363a1,1 0,0 1,0 1.414l-6.363,6.363 2.83,2.83 6.363,-6.363a1,1 0,0 1,0.707 -0.297z"/>
+</vector>
